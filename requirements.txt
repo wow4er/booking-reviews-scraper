@@ -1,0 +1,5 @@
+curl_cffi>=0.16.0
+beautifulsoup4>=4.12
+lxml>=6.0.2
+cryptography>=46.0.3
+pyscrypt>=1.6.2
